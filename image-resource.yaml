@@ -1,0 +1,5 @@
+kp image create <name> \
+  --tag python_test \
+  [--builder <builder> or --cluster-builder <cluster-builder>] \
+  --git <git-repo> \
+  --git-revision <git-revision>
